@@ -1,5 +1,9 @@
 # @rxtk/stats
-> 📊 RxJS operators for statistics
+> 📊 RxJS operators for reactive statistics
+
+```bash
+npm i @rxtk/stats
+```
 
 ```bash
 yarn add @rxtk/stats
