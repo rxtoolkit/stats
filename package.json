@@ -1,6 +1,6 @@
 {
   "name": "@rxtk/stats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "📊 RxJS operators for statistics",
   "main": "dist/index.js",
   "repository": "https://github.com/rxtoolkit/stats.git",
