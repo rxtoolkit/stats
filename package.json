@@ -1,15 +1,27 @@
 {
-  "name": "@rxtk/PACKAGE_NAME",
+  "name": "@rxtk/stats",
   "version": "1.0.0",
-  "description": "DESCRIPTION",
+  "description": "📊 RxJS operators for statistics",
   "main": "dist/index.js",
-  "repository": "https://github.com/rxtoolkit/PACKAGE_NAME.git",
+  "repository": "https://github.com/rxtoolkit/stats.git",
   "author": "Buccaneer LLC <opensource@buccaneer.ai>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rxtoolkit/PACKAGE_NAME/issues"
+    "url": "https://github.com/rxtoolkit/stats/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "statistics",
+    "math",
+    "data science",
+    "stats",
+    "rxjs",
+    "observables",
+    "stream",
+    "streaming",
+    "realtime",
+    "real-time",
+    "reactive"
+  ],
   "directories": {
     "src": "src"
   },

@@ -1,1 +1,14 @@
-// export {default as myFunction} from './myFunction.js';
+export { default as accuracy } from './lib/accuracy';
+export { default as change } from './lib/change';
+export { default as countValues } from './lib/countValues';
+export { default as dirtyR } from './lib/dirtyR';
+export { default as dirtyZScore } from './lib/dirtyZScore';
+export { default as f1 } from './lib/f1';
+export { default as mean } from './lib/mean';
+export { default as precision } from './lib/precision';
+export { default as recall } from './lib/recall';
+export { default as roundTo } from './lib/roundTo';
+export { default as stdev } from './lib/stdev';
+export { default as sum } from './lib/sum';
+export { default as throwUnlessNum } from './lib/throwUnlessNum';
+export { default as variance } from './lib/variance';
